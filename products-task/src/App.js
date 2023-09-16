@@ -1,9 +1,12 @@
 import './App.css';
 import About from './components/about/About';
+import Contact from './components/contact/Contact';
 
 function App() {
   return (
-    <About/>
+    <div>
+  <Contact></Contact>
+    </div>
   );
 }
 
