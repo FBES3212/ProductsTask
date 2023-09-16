@@ -1,14 +1,5 @@
-import './App.css';
-import About from './components/about/About';
-import Contact from './components/contact/Contact';
+import "./App.css";
 
-function App() {
-  return (
-    <div>
-  <Contact></Contact>
-    </div>
-  );
-}
+function App() {}
 
 export default App;
-
